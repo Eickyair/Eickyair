@@ -1,15 +1,16 @@
 ### Hi there 👋
-## Software Engineer?
-The most important reason why I decided to study this career is because I found a real way to help people work less on repetitive tasks and focus their energy on more important things. With the great advances in the field of AI, I believe I'm on the right path to achieving my goal.
-### Studies
-Currently, I am studying software engineering at UNAM where I have acquired the most basic knowledge that is summarized in two courses: Data Structures and Algorithms I and II. The topics include:
-- Stacks, Lists, Queues, Graphs, Trees
-- Discrete Mathematics, Recursion, Algorithmic Complexity
+## Is Software Engineering My Calling?
+I chose to pursue a career in software engineering because I'm passionate about helping people streamline their work and focus on the important stuff. With the rapid advancements in AI, I'm confident that I'm on the right path to make a meaningful impact.
 
-On the other hand, I have decided to study and learn some web development tools on my own, which include:
-- HTML, CSS, JS
-- Node, React, Express
-### Data Scientist
-Right now I'm learning the basics to become a data scientist because I'm blown away by the capabilities of this area and I've always been interested in the business and entrepreneurship side of things
-### Competitive Programing
-I've taken part in competitions like <a href="https://icpc.global/">ICPC</a>or <a href="https://ieeextreme.org/">IEEEXTREME</a>, and with my team we reached the top 9 in Mexico for the latter. A big part of my achievements in this field are thanks to my school club, the <a href="https://github.com/CPCFI-org">CPCFI</a>, where I found people with similar interests and we all bonded over solving problems.
+## Studies: Unlocking the Basics
+Currently, I'm studying software engineering at <a href="https://www.unam.mx">UNAM</a>, where I'm mastering the basics of the field. The two most pivotal courses I've taken are **Data Structures and Algorithms I and II**, which cover topics such as **Stacks, Lists, Queues, Graphs, Trees, Discrete Mathematics, Recursion, and Algorithmic Complexity**.
+
+In addition, I'm self-studying some **web development** tools like HTML, CSS, JS, **Node, React, and Express**. This keeps me ahead of the curve and makes me well-rounded.
+
+## Data Scientist in the Making
+I'm currently exploring the fascinating world of data science. It's astounding how powerful this field is, and I'm always intrigued by the business and entrepreneurship side of things.
+
+## Competitive Programming: Top of the Game
+I've also competed in prestigious programming competitions like <a href="https://icpc.global/">ICPC</a> and <a href="https://ieeextreme.org/">IEEEXTREME</a>, and I'm proud to say that my team placed in the top 9 in Mexico for the latter. None of this would have been possible without the support of my school club, <a href="http://www.cpcfi.unam.mx:3000/">CPCFI</a>, where I found like-minded individuals who shared my passion for problem-solving.
+
+I'm excited about the future and can't wait to make a difference in the world of software engineering!
