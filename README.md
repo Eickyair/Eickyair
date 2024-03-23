@@ -14,3 +14,17 @@ I'm currently exploring the fascinating world of data science. It's astounding h
 I've also competed in prestigious programming competitions like <a href="https://icpc.global/">ICPC</a> and <a href="https://ieeextreme.org/">IEEEXTREME</a>, and I'm proud to say that my team placed in the top 9 in Mexico for the latter. None of this would have been possible without the support of my school club, <a href="http://www.cpcfi.unam.mx:3000/">CPCFI</a>, where I found like-minded individuals who shared my passion for problem-solving.
 
 I'm excited about the future and can't wait to make a difference in the world of software engineering!
+
+## Technologies
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,githubactions,postgres,docker,next,ts,tailwind,figma&perline=4" />
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/storybooks/brand/master/icon/icon-storybook-default.png" width="50px">
+</p>
+</br>
+</br>
+</br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Eickyair&show_icons=true&theme=merko&hide=stars,prs,issues&show=prs_merged">
+</p>
